@@ -1,4 +1,2 @@
-# CodeSwitchingDetection
-# CodeSwitchingDetection
-# CodeSwitchingDetection
-# CodeSwitchingDetection
+Basque-Spanish Code Switching Detection on tweets
+
