@@ -1,10 +1,12 @@
-All tweets obtained by executing the application
+All tweets obtained by running TweepyStreaming.py
+
+Result files:
 	- ALL_tweets.json: all the tweets obtained by the application
 	- CS_tweets.json: just tweets where code-switching was detected
 
-A more user friendly view of the files above can be achieved by opening the GUI.html file
+A more user friendly view of the files above is available by opening the GUI.html file
 
-Tweets were fetched between 22/09/2017 and 26/09/2017
+Tweets were fetched between 22/09/2017 and 26/09/2017 using hashtags from umap.eus webpage
 
 Hashtags used:
 	- #KataluniarekinBat
