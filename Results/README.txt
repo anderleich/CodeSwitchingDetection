@@ -1,8 +1,8 @@
 All tweets obtained by running TweepyStreaming.py
 
 Result files:
-	- ALL_tweets.json: all the tweets obtained by the application
-	- CS_tweets.json: just tweets where code-switching was detected
+	- ALL_tweets.json: all the tweets obtained by the application (12535 tweets)
+	- CS_tweets.json: just tweets where code-switching was detected (1858 tweets)
 
 A more user friendly view of the files above is available by opening the GUI.html file
 
